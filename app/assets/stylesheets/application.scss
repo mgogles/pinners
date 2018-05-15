@@ -1,4 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+$body-bg: 					#55efc4;
+$font-family-sans-serif: 	'Montserrat', "Helvetica Neue", Helevetica, Arial, sans-serif;
+$jumbotron-bg: 				#ffffff;
+
+$navbar-default-bg: 		#00b894;
+$navbar-default-border: 	#00b894;
+$navbar-default-link-color: #ffffff;
+
+$btn-primary-bg: 			#fd79a8;
+
 @import "bootstrap";
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
+
 
 /*
  * This is a manifest file that'll be compiled into application.css, which will include all the files
