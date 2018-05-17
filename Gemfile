@@ -14,6 +14,7 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'bootstrap-sass'
 gem 'popper_js'
 gem 'jquery-rails'
+gem 'devise', '~>4.4.3'
 
 
 group :development, :test do
